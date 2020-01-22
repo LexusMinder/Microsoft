@@ -1,0 +1,11 @@
+C:\Users\moust\source\repos\MiBanco\MiBanco\bin\Debug\netcoreapp3.1\MiBanco.exe
+C:\Users\moust\source\repos\MiBanco\MiBanco\bin\Debug\netcoreapp3.1\MiBanco.deps.json
+C:\Users\moust\source\repos\MiBanco\MiBanco\bin\Debug\netcoreapp3.1\MiBanco.runtimeconfig.json
+C:\Users\moust\source\repos\MiBanco\MiBanco\bin\Debug\netcoreapp3.1\MiBanco.runtimeconfig.dev.json
+C:\Users\moust\source\repos\MiBanco\MiBanco\bin\Debug\netcoreapp3.1\MiBanco.dll
+C:\Users\moust\source\repos\MiBanco\MiBanco\bin\Debug\netcoreapp3.1\MiBanco.pdb
+C:\Users\moust\source\repos\MiBanco\MiBanco\obj\Debug\netcoreapp3.1\MiBanco.csprojAssemblyReference.cache
+C:\Users\moust\source\repos\MiBanco\MiBanco\obj\Debug\netcoreapp3.1\MiBanco.AssemblyInfoInputs.cache
+C:\Users\moust\source\repos\MiBanco\MiBanco\obj\Debug\netcoreapp3.1\MiBanco.AssemblyInfo.cs
+C:\Users\moust\source\repos\MiBanco\MiBanco\obj\Debug\netcoreapp3.1\MiBanco.dll
+C:\Users\moust\source\repos\MiBanco\MiBanco\obj\Debug\netcoreapp3.1\MiBanco.pdb
